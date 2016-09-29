@@ -5,6 +5,6 @@ public class Starter {
 	ITracker tr;
 	
 	public void run() {
-		tr.issue("xxxx");
+		tr.issue("xxxx-yyy");
 	}
 }
