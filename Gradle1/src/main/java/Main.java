@@ -15,6 +15,7 @@ public class Main {
 		});
 		Starter st = injector.getInstance(Starter.class);
 		st.run();
+		// Just to check flow
 	}
 
 }
